@@ -1,0 +1,32 @@
+body {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 16px;
+  line-height: 1;
+  background-color: cyan;
+}
+
+.form-inline {
+  display: flex;
+  flex-flow: row wrap;
+  align-items: center;
+}
+
+.form-inline input {
+    vertical-align: middle;
+    margin: 5px 10px 5px 0;
+    padding: 10px;
+    background-color: #fff;
+    border: 1px solid #ddd;
+  }
+
+.col-lg-9 {
+border: 1px solid black; 
+background-color: lightsteelblue;
+}
+
+.aside {
+    width: 90%;
+    height: 50px
+    background-color: #fff;
+    border: 1px solid #ddd;
+}
